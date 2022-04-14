@@ -1,0 +1,23 @@
+body {
+    background: darkolivegreen;
+}
+
+.imbyuu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    text-align: center;
+    padding: 3px;
+    margin: 10px;
+}
+
+button {
+    padding: 5px;
+    color: rgb(63, 65, 12);
+    border: none;
+    cursor: pointer;
+}
